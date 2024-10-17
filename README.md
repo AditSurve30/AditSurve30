@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AditSurve30
 - 👀 I’m interested in JAVA Developer and Frontend Developer
-- 🌱 I’m currently persuing MCA Science
+- 🌱 I have completed my MCA Science
 - 📫 How to reach me aditisurve3366@gmail.com
 
 <!---
